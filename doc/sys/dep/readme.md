@@ -3,5 +3,3 @@
 1. the first problem is that as a whole when your producing something you need everyting to work forever.. however,, that isn't something that is usually possible since upgrades can mean shiney new features...
 
 2. the complication arises from complex multi-vendor software compendiums to produce a product.. this currently is a drm nightmare. And in particular things like music a massive eadache... to the point you might have a sync, incremental but do you have a system wide backup... it appears, given the current trajectory we need to think about snapshotting the entire thing.. ( but it can't be a vm since we need direct to hardware for graphics and music dma.. )
-
-4. 
